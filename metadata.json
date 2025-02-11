@@ -1,0 +1,6 @@
+{
+    "uuid": "mic-level@mathsantana",
+    "name": "Mic Level",
+    "description": "Indicate the input level of a mic. Important to those who do remote work.",
+    "icon": "force-exit"
+}
